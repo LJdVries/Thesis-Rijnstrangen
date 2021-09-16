@@ -1,4 +1,4 @@
-# Thesis-Rijnstrangen
+# Thesis Rijnstrangen
 
 MSc thesis "Retention of Rhine water in the Rijnstrangen to mitigate drought" by Laura de Vries.  
 Graduation September 27th 2021.
